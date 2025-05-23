@@ -29,11 +29,11 @@ b) change the CLASS_TO_INDEX dictionary in the counterfactual.py file according 
 c) Now run the generate_xai_report.py file in src folder.
 
 This is the folder structure to be followed.\
-![Screenshot 2025-05-20 105556](https://github.com/user-attachments/assets/eee15475-5ed5-4e55-94b6-3c0f55461942)\
+![Screenshot 2025-05-20 105556](https://github.com/user-attachments/assets/eee15475-5ed5-4e55-94b6-3c0f55461942)
 
 
 
-![Screenshot 2025-05-23 080117](https://github.com/user-attachments/assets/ea10272d-a60e-4d64-a70d-fa98d65b25a7)\
+![Screenshot 2025-05-23 080117](https://github.com/user-attachments/assets/ea10272d-a60e-4d64-a70d-fa98d65b25a7)
 
 
 
