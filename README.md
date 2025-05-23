@@ -28,6 +28,11 @@ a) Use the gradcam.py file outside src folder by running this in the terminal # 
 b) change the CLASS_TO_INDEX dictionary in the counterfactual.py file according to the need.
 c) Now run the generate_xai_report.py file in src folder.
 
+This is the folder structure to be followed
+![Screenshot 2025-05-20 105556](https://github.com/user-attachments/assets/eee15475-5ed5-4e55-94b6-3c0f55461942)
+
+
+
 This should run without a problem and save all the output images in the respective folders automatically.
 
 
