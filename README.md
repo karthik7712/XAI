@@ -9,7 +9,7 @@ For example a dataset named "crack" has its images inside it saved as "crack1.jp
 
 Folder Structutre inside project folders\
 Each dataset folder should contain images, smoothed_images, segmented_images and labels.csv\
-If you have the images in the required format, this step can be achieved by following steps in the code present [here](https://github.com/karthik7712/image_process)
+If you have the dataset images in the required format, these smoothed and segmented images can be saved by following steps in the code present [here](https://github.com/karthik7712/image_process)
 
 All the dataset folders should be saved inside the "datasets" folder.
 
